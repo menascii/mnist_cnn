@@ -1,7 +1,7 @@
 # mnist_cnn
 machine learning mnist database digit recognition using a convolutional neural network in C++
 
-*Note: This program is still in developmet. Current feature include: reading the image, setting the zero pad, and convolving the image using filter maps created with random weights.
+*Note: This program is still in development. Current features include: reading the image, setting the zero pad, and convolving the image using filter maps created with random weights.
 
 1)
 mnist training program in c++
