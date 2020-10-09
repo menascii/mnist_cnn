@@ -1,4 +1,9 @@
 /* mnist training program in c++ by @menascii
+
+   *Note: This program is still in development. 
+   Current features include: reading the image, 
+   setting the zero pad, and 
+   convolving the image using filter maps created with random weights.
      
    compile:
       g++ training_mnist.cpp
