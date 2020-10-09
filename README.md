@@ -42,7 +42,7 @@ mnist testing program in c++ by @menascii
      
    compile:
    
-      g++ testing_mnist.cpp
+      g++ testing_mnist_cnn.cpp
     
    run:
    
